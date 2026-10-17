@@ -1,5 +1,3 @@
-# Anuj Pandey
-
 **Platform & Cloud Infrastructure Engineer** | Kubernetes, IaC, Distributed Backend Systems  
 Lucknow, India • [LinkedIn](https://linkedin.com/in/) • [Email](mailto:your-email@example.com)
 
