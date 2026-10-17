@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Shinjiru-stack
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on spring boot applications
-- 📫 How to reach me ...
+# Anuj Pandey
 
-<!---
-Shinjiru-stack/Shinjiru-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Platform & Cloud Infrastructure Engineer** | Kubernetes, IaC, Distributed Backend Systems  
+Lucknow, India • [LinkedIn](https://linkedin.com/in/) • [Email](mailto:your-email@example.com)
+
+---
+
+### Core Focus
+- **Platform Engineering & Cloud Infrastructure:** Kubernetes, Docker, Terraform, Helm across AWS, Azure, and GCP.
+- **Backend & Data Systems:** Distributed services with Java, Spring Boot, Python, PostgreSQL, and ArangoDB.
+- **Observability & Pipelines:** OpenTelemetry, Prometheus, Grafana, and Apache Airflow.
+- **AI & Systems Tooling:** Agentic workflows, RAG architectures, and custom quantitative trading engines.
